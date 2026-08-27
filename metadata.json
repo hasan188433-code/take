@@ -1,0 +1,6 @@
+{
+  "name": "Aether & Chrono: Co-op Tales",
+  "description": "یک بازی ۳ بعدی داستانی، رمانتیک و چالشی دو‌نفره الهام گرفته از It Takes Two با حضور دو عروسک چوبی به نام‌های رز و آریا در اتاق کارگاه با قابلیت بازی آنلاین از راه دور و محلی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
